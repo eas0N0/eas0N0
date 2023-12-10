@@ -8,3 +8,5 @@
 eas0N0/eas0N0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+[![profilepic.jpg](https://i.postimg.cc/8kXDP4Zz/profilepic.jpg)](https://postimg.cc/yWR2LmqM)
